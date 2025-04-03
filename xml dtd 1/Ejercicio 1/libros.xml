@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Nombre: Carlos Gil Pantoja
+Curso: Asir
+Fecha:3/4/2025
+Ejercicio: Ejercicio 1
+-->
+<!DOCTYPE biblioteca [
+    <!ELEMENT biblioteca (libro)>
+    <!ELEMENT libro (titulo, editorial, autor, paginas)>
+    <!ELEMENT titulo (#PCDATA)>
+    <!ELEMENT editorial (#PCDATA)>
+    <!ELEMENT autor (nombre, apellidos)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT apellidos (#PCDATA)>
+    <!ELEMENT paginas (#PCDATA)>
+]>
+
+<biblioteca>
+    <libro>
+        <titulo>El maestro y Margarita</titulo>
+        <editorial>Ediciones Feltrinelli</editorial>
+        <autor>
+            <nombre>Mijaíl</nombre>
+            <apellidos>Bulgákov</apellidos>
+        </autor>
+        <paginas>384</paginas>
+    </libro>
+     <libro>
+        <titulo>Odisea</titulo>
+        <editorial>Austral</editorial>
+        <autor>
+            <nombre>Homero</nombre>
+        </autor>
+        <paginas>448</paginas>
+    </libro>
+    <libro>
+        <titulo>Don quijote de la mancha</titulo>
+        <editorial>Austral</editorial>
+        <autor>
+            <nombre>Miguel</nombre>
+            <apellidos>De Cervantes Saavedra</apellidos>
+        </autor>
+        <paginas>920</paginas>
+    </libro>

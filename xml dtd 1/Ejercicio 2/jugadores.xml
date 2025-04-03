@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Nombre: Carlos Gil Pantoja
+Curso: Asir
+Fecha:3/4/2025
+Ejercicio: Ejercicio 2
+-->
+
+<!DOCTYPE liga SYSTEM "liga.dtd">
+<liga>
+    <jugador>
+        <nombre>Austin</nombre>
+        <apellidos>Reaves</apellidos>
+        <equipo>
+            <ciudad>Los Ángeles</ciudad>
+            <presidente>
+                <nombrePresidente>Johnny</nombrePresidente>
+                <apellidosPresidente>Buss</apellidosPresidente>
+            </presidente>
+        </equipo>
+        <edad>26</edad>
+    </jugador>
+    <jugador>
+        <nombre>Luka</nombre>
+        <apellidos>Doncic</apellidos>
+        <equipo>
+            <ciudad>Los Ángeles</ciudad>
+            <presidente>
+                <nombrePresidente>Johnny</nombrePresidente>
+                <apellidosPresidente>Buss</apellidosPresidente>
+            </presidente>
+        </equipo>
+        <edad>25</edad>
+    </jugador>
+    <jugador>
+        <nombre>Lebron</nombre>
+        <apellidos>James</apellidos>
+        <equipo>
+            <ciudad>Los Ángeles</ciudad>
+            <presidente>
+                <nombrePresidente>Johnny</nombrePresidente>
+                <apellidosPresidente>Buss</apellidosPresidente>
+            </presidente>
+        </equipo>
+        <edad>40</edad>
+    </jugador>
+    <jugador>
+        <nombre>Austin</nombre>
+        <apellidos>Reaves</apellidos>
+        <equipo>
+            <ciudad>Los Ángeles</ciudad>
+            <presidente>
+                <nombrePresidente>Johnny</nombrePresidente>
+                <apellidosPresidente>Buss</apellidosPresidente>
+            </presidente>
+        </equipo>
+        <edad>26</edad>
+    </jugador>
+</liga>
